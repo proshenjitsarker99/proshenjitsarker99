@@ -73,3 +73,9 @@ I'm a Computer Science student and a passionate Frontend Web Developer from Bang
     alt="Contribution Graph"
   />
 </p>
+
+<h2>📫 Contact Me</h2>
+
+<p>📧 Email: akashsarker2003@gmail.com</p>
+<p>📱 Contact: +880 1780360973</p>
+<p>📍 Location: Bangladesh</p>
