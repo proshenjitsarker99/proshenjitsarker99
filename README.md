@@ -44,12 +44,32 @@ I'm a Computer Science student and a passionate Frontend Web Developer from Bang
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proshenjitsarker99&theme=github_dark"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proshenjitsarker99&theme=github_dark"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=proshenjitsarker99)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=proshenjitsarker99&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proshenjitsarker99&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proshenjitsarker99&theme=github_dark)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proshenjitsarker99&theme=github_dark"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
