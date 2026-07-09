@@ -1,4 +1,4 @@
-![Banner](YOUR_BANNER_IMAGE_URL)
+![Banner](https://i.ibb.co/DHvWWsyH/Banner.png)
 
 # Hi, I'm Proshenjit 👋
 
