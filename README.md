@@ -36,7 +36,7 @@ I'm a Computer Science student and a passionate Frontend Web Developer from Bang
 ## 🌐 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/proshenjitsarker1">
+  <a href="https://linkedin.com/in/proshenjitsarker1/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/proshenjitsarker99">
