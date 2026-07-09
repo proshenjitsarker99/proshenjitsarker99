@@ -46,8 +46,8 @@ I'm a Computer Science student and a passionate Frontend Web Developer from Bang
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=proshenjitsarker99&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=proshenjitsarker99&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=proshenjitsarker99&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=proshenjitsarker99&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=proshenjitsarker99)
