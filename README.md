@@ -1,6 +1,6 @@
 ![Banner](YOUR_BANNER_IMAGE_URL)
 
-# Hi, I'm Ak 👋
+# Hi, I'm Proshenjit 👋
 
 ### Frontend Web Developer
 
@@ -36,18 +36,18 @@ I'm a Computer Science student and a passionate Frontend Web Developer from Bang
 ## 🌐 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/proshenjitsarker1">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/proshenjitsarker99">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=proshenjitsarker99&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=proshenjitsarker99&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=proshenjitsarker99)
